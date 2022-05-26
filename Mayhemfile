@@ -1,5 +1,5 @@
 project: rnshah9/purge-dups
-target: purge-dups
+target: split-fa
 
 cmds:
   - cmd: /repo/src/split_fa @@
