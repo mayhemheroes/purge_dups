@@ -1,4 +1,4 @@
-project: rnshah9/purge-dups
+project: purge-dups
 target: split-fa
 
 cmds:
