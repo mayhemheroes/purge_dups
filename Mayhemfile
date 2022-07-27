@@ -2,4 +2,4 @@ project: purge-dups
 target: split-fa
 
 cmds:
-  - cmd: /repo/src/split_fa @@
+  - cmd: /split_fa @@
