@@ -1,0 +1,5 @@
+project: purge-dups
+target: split-fa
+
+cmds:
+  - cmd: /split_fa @@

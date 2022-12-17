@@ -1,0 +1,6 @@
+project: purge-dups
+target: bam-swap-endian-8
+
+cmds:
+  - cmd: /fuzz_bam_swap_endian_8
+    libfuzzer: true
