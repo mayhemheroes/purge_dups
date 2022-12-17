@@ -59,7 +59,8 @@ jobs:
       fail-fast: false
       matrix:
         mayhemfile:
-          - mayhem/Mayhemfile
+          - mayhem/Mayhemfile_bam_swap_endian_8
+          - mayhem/Mayhemfile_split_fa
 
     steps:
       - uses: actions/checkout@v3
